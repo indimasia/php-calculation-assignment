@@ -15,4 +15,4 @@ Make sure you have the following installed:
 - PHP 8.3
  
 ## screenshot
-![Screenshot](link)
+![Screenshot](https://raw.githubusercontent.com/indimasia/php-calculation-assignment/refs/heads/main/result.png)
